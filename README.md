@@ -2,5 +2,5 @@
 <h3 align="center">I'm just your average Asian who uses Arch btw.</h3>
 
 <p align="center">
-  <img src="https://github.com/Pooh555/Pooh555/blob/main/assets/images/kita_and_bocchi.jpeg" style="width: 80%; border-radius: 10px; />
+  <img src="https://github.com/Pooh555/Pooh555/blob/main/assets/images/kita_and_bocchi.jpeg" style=width: 80%; border-radius: 10px; />
 </p>
