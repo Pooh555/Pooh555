@@ -4,4 +4,6 @@
 <p align="center">
   <img src="https://github.com/Pooh555/Pooh555/blob/main/assets/images/kita_and_bocchi.jpeg" style=width: 100%;/>
 </p>
-<i align="center">Ikuyo Kita & Hitori Goto</i>
+<p align="center">
+  <i>Ikuyo Kita & Hitori Goto</i>
+</p>
